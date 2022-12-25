@@ -1,0 +1,7 @@
+version: 2
+sources:
+      - name: dmt_demo
+        schema:demo
+        tables:
+            - name: dim_product
+            identifier: product_listings
